@@ -16,5 +16,8 @@
     - [Ödev 7](./odev7.sql)
 3. ### Tablolarla Çalışmak
     - [Ödev 8](./odev8.sql)
-
+4. ### JOIN Yapıları
+    - [Ödev 9](./odev9.sql)
+    - [Ödev 10](./odev10.sql)
+    - [Ödev 11](./odev11.sql)
 ---
