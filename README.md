@@ -20,4 +20,8 @@
     - [Ödev 9](./odev9.sql)
     - [Ödev 10](./odev10.sql)
     - [Ödev 11](./odev11.sql)
+5. ### Alt Sorgular
+    - [Ödev 12](./odev12.sql)
+6. ### Genel Tekrar
+    - [Genel Tekrar](./genel-tekrar.sql)
 ---
